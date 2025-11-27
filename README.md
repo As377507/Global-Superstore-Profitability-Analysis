@@ -45,5 +45,6 @@ DIVIDE(
 ---
 ## 🔗 Deliverables
 * **Dashboard Image:**
-  ![Login Page](screenshots/login.png)
-* **Power BI Source File:** `Global_Superstore2.pbix` [Upload this source file to your repository]
+  ![Dashboard Image](screenshorts/Sales Report screenshort.png)
+* **Power BI Source File:** `Global_Superstore2.pbix`
+  ![PowerBI File](File/Sales Report.pbix)
