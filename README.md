@@ -16,7 +16,6 @@ The dashboard is structured around key business questions to ensure data drives 
 | :--- | :--- | :--- | :--- |
 | **Financial Health** | **Profit Margin KPI** | Created using DAX: `Profit Margin = DIVIDE(SUM(Profit), SUM(Sales))`. Uses conditional formatting (Red/Green) to instantly alert if margin is below a target (e.g., 10%). | Provides context to raw profit numbers, indicating the true efficiency of sales. |
 | **Actionable Profitability** | **Profit by Sub-Category Bar Chart** | Bars are conditionally formatted: **Red** for negative profit, **Green** for positive profit. | Pinpoints exact product lines (e.g., 'Tables', 'Binders') that must be addressed for pricing or cost reduction. |
-| **Geographic Performance** | **Sales and Profit by Market Matrix** | Replaced complex map visual with a Matrix table using conditional formatting (Red/Green background) on the Profit column. | Quickly ranks global markets by performance, allowing management to prioritize resource allocation. |
 | **Trend Analysis** | **Sales Trend Over Time** Line Chart | Shows monthly/quarterly sales trends, revealing seasonality and peak demand periods. | Supports forecasting and inventory planning. |
 
 ---
@@ -24,7 +23,7 @@ The dashboard is structured around key business questions to ensure data drives 
 ## 🛠️ Technical Details & Power BI Techniques
 
 ### Data Source
-* **File:** `Global_Superstore2.csv` (Simulated Retail Data)
+* **File:** `Global_Superstore2.csv` (Simulated Retail Data which is Present in the Report Folder)
 * **Key Fields:** `Sales`, `Profit`, `Order Date`, `Category`, `Sub-Category`, `Market`, `Region`.
 
 ### Key DAX Measure
@@ -46,5 +45,5 @@ DIVIDE(
 ## 🔗 Deliverables
 * **Dashboard Image:**
   ![Dashboard](screenshorts/Sales_Report_screenshort.png)
-* **Power BI Source File:** `Global_Superstore2.pbix`
-* ![PowerBI File](File/Sales Report.pbix)
+* **Power BI Source File:** `Sales project.pbix`
+* Present in the Report folder
