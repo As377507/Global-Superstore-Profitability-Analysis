@@ -47,3 +47,16 @@ DIVIDE(
   ![Dashboard](screenshorts/Sales_Report_screenshort.png)
 * **Power BI Source File:** `Sales project.pbix`
 * Present in the Report folder
+
+---
+## 📞 Author & Contact Information
+
+* **Name:** Akash Sen
+* **LinkedIn:** [LinkedIn](https://linkedin.com/in/akash-sen-28834a30b)
+* **Email:** [asen05897@gmail.com](mailto:asen05897@gmail.com)
+* **GitHub:** [GitHub profile](https://github.com/As377507)
+
+***
+
+## License
+This project is for demonstration and educational purposes only.
